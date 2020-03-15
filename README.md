@@ -31,4 +31,3 @@ Run with a [Pythonista 3](http://omz-software.com/pythonista/) App.
 ##screenshot
 
 ### `straight.py`
-![]
