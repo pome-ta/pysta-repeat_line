@@ -132,7 +132,6 @@ class Draw(ui.View):
         #line.line_width = .64
         line.line_width = .872
         line.stroke()
-        line.fill()
       lastx = xp
       lasty = yp
       ang += self.v_angle
