@@ -40,7 +40,7 @@ Reference : [Understanding Perlin Noise](http://flafla2.github.io/2014/08/09/per
 > [Reference Japanese translation](https://postd.cc/understanding-perlin-noise/)
 
 
-## screenshot
+## Images to save
 
 ### [`straight.py`](./straight.py)
 
