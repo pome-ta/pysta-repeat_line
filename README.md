@@ -29,6 +29,19 @@ Run with a [Pythonista 3](http://omz-software.com/pythonista/) App.
 - `×`
 	- close.
 
-##screenshot
+## screenshot
 
-### `straight.py`
+### [`straight.py`](./straight.py)
+
+![straighout01](./screenshot/CE29ECC6-FB77-4001-BE70-3C5A61D5E5B6.png)
+
+
+
+![straighout02](./screenshot/6D04DBE7-2CA8-4055-9409-AF776E6BCD8A.png)
+
+### [`perlin.py`](./perlin.py)
+
+![perlinout01](./screenshot/60D405E5-C9F6-4404-AB0C-F64CB6F18037.png)
+
+
+![perlinout02](./screenshot/D8DB0EEC-B086-4849-B4D3-645B153D2E75.png)
