@@ -2,9 +2,11 @@
 
 Run with a [Pythonista 3](http://omz-software.com/pythonista/) App.
 
-![straigh01](./screenshot/39E25B3F-5D1D-4612-88D1-6514ACF37788.png) ![straigh02](./screenshot/61A19421-29E0-4DDC-85FA-7E5845C0EBE0.png) ![perlin01](./screenshot/08C002CD-264C-4129-A365-02E5BB596FBB.png) ![perlin02](./screenshot/A5ED2533-80FB-4B00-8B22-B6E9426768B9.png)
+
+I was inspired by the coding of the [Processing](https://processing.org/).
 
 
+![straigh01](./screenshot/39E25B3F-5D1D-4612-88D1-6514ACF37788.png) ![straigh02](./screenshot/61A19421-29E0-4DDC-85FA-7E5845C0EBE0.png) ![perlin01](./screenshot/08C002CD-264C-4129-A365-02E5BB596FBB.png)
 
 
 ## Description
@@ -28,6 +30,15 @@ Run with a [Pythonista 3](http://omz-software.com/pythonista/) App.
 	- to console.
 - `×`
 	- close.
+
+
+
+## Perlin Noise
+
+Reference : [Understanding Perlin Noise](http://flafla2.github.io/2014/08/09/perlinnoise.html)
+
+> [Reference Japanese translation](https://postd.cc/understanding-perlin-noise/)
+
 
 ## screenshot
 
