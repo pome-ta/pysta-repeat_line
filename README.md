@@ -2,7 +2,7 @@
 
 Run with a [Pythonista 3](http://omz-software.com/pythonista/) App.
 
-![straightpreview01](./screenshot/straight_preview-01.PNG) ![straightoutput01](./screenshot/straight_output-01.PNG)
+![straigh01](./screenshot/39E25B3F-5D1D-4612-88D1-6514ACF37788.png) ![straigh02](./screenshot/61A19421-29E0-4DDC-85FA-7E5845C0EBE0.png)
 
 
 
